@@ -31,8 +31,17 @@ Dựa trên thuật toán K-Means (k=5), tệp khách hàng được chia thành
 5. **Nhóm Khách hàng Ít tiềm năng (Thu nhập thấp, Chi tiêu thấp):** * *Đặc điểm:* Nhạy cảm về giá và ít đến siêu thị.
    * *Đề xuất:* Hạn chế ngân sách tiếp thị cho nhóm này để tối ưu hóa ROI.
 
-## 🖼️ Hình ảnh Demo (Kết quả phân nhóm K-Means)
+## 🖼️ Hình ảnh Demo 
 Dưới đây là biểu đồ trực quan hóa kết quả phân cụm bằng thuật toán K-Means, thể hiện rõ rệt 5 nhóm khách hàng trên không gian 2 chiều (Thu nhập vs Điểm chi tiêu):
+![Kết quả Phân nhóm](./Bieudo3.png)
+### 1. Phân phối giới tính khách hàng
+![Phân phối giới tính](./Bieudo1.png)
+
+### 2. Mối quan hệ giữa Thu nhập và Chi tiêu
+![Thu nhập và Chi tiêu](./Bieudo2.png)
+
+### 3. Kết quả Phân nhóm tự động (K-Means Clustering)
+![Kết quả Phân nhóm](./Bieudo3.png)
 
 ## 🚀 Cấu trúc thư mục
 * `Customer_Segmentation.ipynb`: Toàn bộ mã nguồn Python thực hiện quá trình làm sạch, EDA và mô hình hóa K-Means.
