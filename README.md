@@ -85,7 +85,6 @@ customer-behavior-analysis/
 │   ├── Bieudo1.png                           
 │   ├── Bieudo2.png                          
 │   └── Bieudo3.png           
-└── HUONG_DAN_CAP_NHAT_GITHUB.md
 ```
 
 
