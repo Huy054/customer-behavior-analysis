@@ -6,4 +6,5 @@ Chỉ lưu **bản cũ** để đối chiếu lịch sử nâng cấp. Các file
 - `Bieudo1.png` — biểu đồ giới tính cũ;
 - `Bieudo2.png` — scatter thu nhập/điểm chi tiêu cũ;
 - `Bieudo3.png` — biểu đồ K-Means cũ.
+
 Các file hiện hành nằm trong `analysis/`, `images/`, `outputs/`, `data/`.
