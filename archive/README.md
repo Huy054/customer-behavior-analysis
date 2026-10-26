@@ -1,6 +1,6 @@
 # archive/ — Phiên bản dự án ban đầu
 
-Chỉ lưu **bản cũ** để đối chiếu lịch sử nâng cấp. Các file trước đó đang nằm tại **thư mục gốc repository** nên cần **di chuyển thủ công trên GitHub** (hoặc bằng Git):
+Chỉ lưu **bản cũ** để đối chiếu lịch sử nâng cấp. 
 
 - `Customer_Segmentation.ipynb` — notebook cũ, K-Means k=5 chưa có đánh giá Silhouette và ARI;
 - `Bieudo1.png` — biểu đồ giới tính cũ;
