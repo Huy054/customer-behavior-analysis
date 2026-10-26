@@ -7,4 +7,4 @@ Chỉ lưu **bản cũ** để đối chiếu lịch sử nâng cấp. Các file
 - `Bieudo2.png` — scatter thu nhập/điểm chi tiêu cũ;
 - `Bieudo3.png` — biểu đồ K-Means cũ.
 
-Các file hiện hành nằm trong `analysis/`, `images/`, `outputs/`, `data/`.
+Các file hiện hành nằm trong `analysis/`, `images/`, `outputs/`, `data/`
